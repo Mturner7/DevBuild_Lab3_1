@@ -7,7 +7,7 @@ namespace StudentInfo
         private static string[] students = 
         { 
             "Annie May", "Ben Dover",
-            "Mike Rack", "John Doe", 
+            "Mike Raoli", "John Doe", 
             "Steven Sinclair", "Balrog the Destroyer", 
             "Tyrone Wilkinson", "Kyle Bal", 
             "William Arthur Prescott", "Dale Jarvis"
