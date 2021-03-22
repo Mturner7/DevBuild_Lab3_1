@@ -1,0 +1,13 @@
+C:\Users\mturner7\dev\week2labs\Week2Solution\Week2Solution\bin\Debug\netcoreapp3.1\StudentInfo.exe
+C:\Users\mturner7\dev\week2labs\Week2Solution\Week2Solution\bin\Debug\netcoreapp3.1\StudentInfo.deps.json
+C:\Users\mturner7\dev\week2labs\Week2Solution\Week2Solution\bin\Debug\netcoreapp3.1\StudentInfo.runtimeconfig.json
+C:\Users\mturner7\dev\week2labs\Week2Solution\Week2Solution\bin\Debug\netcoreapp3.1\StudentInfo.runtimeconfig.dev.json
+C:\Users\mturner7\dev\week2labs\Week2Solution\Week2Solution\bin\Debug\netcoreapp3.1\StudentInfo.dll
+C:\Users\mturner7\dev\week2labs\Week2Solution\Week2Solution\bin\Debug\netcoreapp3.1\StudentInfo.pdb
+C:\Users\mturner7\dev\week2labs\Week2Solution\Week2Solution\obj\Debug\netcoreapp3.1\StudentInfo.csprojAssemblyReference.cache
+C:\Users\mturner7\dev\week2labs\Week2Solution\Week2Solution\obj\Debug\netcoreapp3.1\StudentInfo.AssemblyInfoInputs.cache
+C:\Users\mturner7\dev\week2labs\Week2Solution\Week2Solution\obj\Debug\netcoreapp3.1\StudentInfo.AssemblyInfo.cs
+C:\Users\mturner7\dev\week2labs\Week2Solution\Week2Solution\obj\Debug\netcoreapp3.1\StudentInfo.csproj.CoreCompileInputs.cache
+C:\Users\mturner7\dev\week2labs\Week2Solution\Week2Solution\obj\Debug\netcoreapp3.1\StudentInfo.dll
+C:\Users\mturner7\dev\week2labs\Week2Solution\Week2Solution\obj\Debug\netcoreapp3.1\StudentInfo.pdb
+C:\Users\mturner7\dev\week2labs\Week2Solution\Week2Solution\obj\Debug\netcoreapp3.1\StudentInfo.genruntimeconfig.cache
